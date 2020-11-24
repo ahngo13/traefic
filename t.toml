@@ -1,0 +1,6 @@
+# API and dashboard configuration
+[api]
+
+# Docker configuration backend
+[docker]
+  domain = "docker.localhost"
